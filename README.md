@@ -47,4 +47,4 @@ I'm Daniele — a systems engineer with 20+ years of experience in infrastructur
 
 ---
 
-📖 **Follow along on my blog:** [PsCustomObject.github.io](https://pscustomobject.github.io)
+📖 **Follow along on my blog:** [singularvector.github.io](https://singularvector.github.io)
