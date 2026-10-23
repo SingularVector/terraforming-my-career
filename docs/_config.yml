@@ -13,3 +13,5 @@ search_enabled: true
 
 # Trigger rebuild
 rebuild_trigger: v8
+
+url: "https://singularvector.github.io"

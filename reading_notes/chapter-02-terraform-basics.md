@@ -22,7 +22,7 @@ To exclude them, use a `.gitignore` file:
 *.tfstate.backup
 ```
 
-> 🔗 Learn more: [Getting started with .gitignore](https://pscustomobject.github.io/git/version-control/getting-started-with-gitignore/)
+> 🔗 Learn more: [Getting started with .gitignore](https://singularvector.github.io/git/version-control/getting-started-with-gitignore/)
 
 ---
 
